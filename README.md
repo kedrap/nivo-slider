@@ -1,5 +1,5 @@
 # Nivo Slider
 
-Nivo Slider is "The Most Awesome jQuery Image Slider". See http://dev7studios.com/nivo-slider for more info.
+The Nivo Slider is world renowned as the most beautiful and easy to use image slider on the market. There is literally no better way to make your website look totally stunning.
 
-[![I Love Open Source](http://www.iloveopensource.io/images/logo-lightbg.png)](http://www.iloveopensource.io/projects/524c55dcca7964c617000754)
+See http://dev7studios.com/plugins/nivo-slider for more info.
